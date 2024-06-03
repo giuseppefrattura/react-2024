@@ -1,8 +1,10 @@
 import React from 'react'
 
 const App = () => {
+  const name = 'Peppe';
+
   return (
-    <div>App</div>
+    <div>App {name}</div>
   )
 }
 
